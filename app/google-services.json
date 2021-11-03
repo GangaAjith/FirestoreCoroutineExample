@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18613917093",
+    "project_id": "firestorecoroutineex",
+    "storage_bucket": "firestorecoroutineex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18613917093:android:296006121fb42c2127844c",
+        "android_client_info": {
+          "package_name": "com.gangaown.firestorecoroutineex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18613917093-3lpvm8vte4bqc6k6rudh89a44qt92gie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0U8hbJtw63TJ-FKsjLfXWUOsxslR12w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18613917093-3lpvm8vte4bqc6k6rudh89a44qt92gie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
